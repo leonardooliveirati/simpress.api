@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uCvz8DRniMR4o+zUzhdG90aGopLu37hKqCpeJf25475f+Z26B4f/RtZ6yDk3mSt/6TcVAs7i8RtH6vohPOCcVg==",
+  "dgSpecHash": "ONRh6MZFb/WvYCG6A8oDkxoP4qGxzbgeJOFPRpc2HnwsVZC/Peb7WSnZV/cXjg2fzfEaHaCjN5q9yWa6545Opw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\simpress\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\simpress.api\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

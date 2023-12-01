@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7cCPO5V4TYLG2weXUGQVQSNWaUUHKhbwkG5QZ7zCVyzLm8OMJRNx2F7vV4JG3JXKfEqyNPxnNmYWMz8Nz1WhA==",
+  "dgSpecHash": "IN09p36Ux1AasBxO4nMjdEcJ3GSDyj/TMos2Ew37mqA1OxwNw+NsBxAJxOjt8stKnoBqZb8lutfJBR/TLFLAOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\simpress\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\simpress.api\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

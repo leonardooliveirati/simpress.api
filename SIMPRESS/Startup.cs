@@ -1,4 +1,6 @@
-﻿using Infrastructure;
+﻿using Application.Services.Categoria;
+using Application.Services.Produto;
+using Infrastructure;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +21,12 @@ namespace SIMPRESS.API
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers();
+
+            services.AddScoped<ICategoriaService, CategoriaService>();
+
+            services.AddScoped<IProdutoService, ProdutoService>();
+
             services.AddDbContext<ApplicationDbContext>(options =>
                         options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 

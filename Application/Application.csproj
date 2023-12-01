@@ -7,7 +7,39 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Categoria\" />
+    <Compile Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net7.0\Application.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\Application.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net7.0\Application.deps.json" />
+    <Content Include="obj\Application.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net7.0\Application.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net7.0\Application.dll" />
+    <None Include="bin\Debug\net7.0\Application.pdb" />
+    <None Include="bin\Debug\net7.0\Domain.dll" />
+    <None Include="bin\Debug\net7.0\Domain.pdb" />
+    <None Include="bin\Debug\net7.0\Infrastructure.dll" />
+    <None Include="bin\Debug\net7.0\Infrastructure.pdb" />
+    <None Include="obj\Application.csproj.nuget.g.props" />
+    <None Include="obj\Application.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net7.0\Application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net7.0\Application.assets.cache" />
+    <None Include="obj\Debug\net7.0\Application.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net7.0\Application.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net7.0\Application.csproj.CopyComplete" />
+    <None Include="obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net7.0\Application.dll" />
+    <None Include="obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net7.0\Application.pdb" />
+    <None Include="obj\Debug\net7.0\refint\Application.dll" />
+    <None Include="obj\Debug\net7.0\ref\Application.dll" />
+    <None Include="obj\project.nuget.cache" />
   </ItemGroup>
 
   <ItemGroup>
